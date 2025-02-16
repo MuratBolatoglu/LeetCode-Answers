@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0240-search-a-2d-matrix-ii) |
 | [0283-move-zeroes](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0283-move-zeroes) |
 | [0289-game-of-life](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0289-game-of-life) |
+| [0792-binary-search](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0792-binary-search) |
 | [0883-car-fleet](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0883-car-fleet) |
 | [1019-squares-of-a-sorted-array](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/1019-squares-of-a-sorted-array) |
 | [1127-last-stone-weight](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/1127-last-stone-weight) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0240-search-a-2d-matrix-ii) |
 | [0278-first-bad-version](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0278-first-bad-version) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0789-kth-largest-element-in-a-stream) |
+| [0792-binary-search](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0792-binary-search) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/2392-successful-pairs-of-spells-and-potions) |
 ## Binary Tree
 |  |
