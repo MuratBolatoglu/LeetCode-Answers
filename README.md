@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1019-squares-of-a-sorted-array](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/1019-squares-of-a-sorted-array) |
 | [1127-last-stone-weight](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/1127-last-stone-weight) |
 | [1503-reducing-dishes](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/1503-reducing-dishes) |
+| [2026-merge-triplets-to-form-target-triplet](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/2026-merge-triplets-to-form-target-triplet) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/2392-successful-pairs-of-spells-and-potions) |
 ## Heap (Priority Queue)
 |  |
@@ -338,6 +339,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0768-partition-labels](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0768-partition-labels) |
 | [0876-hand-of-straights](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0876-hand-of-straights) |
 | [1503-reducing-dishes](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/1503-reducing-dishes) |
+| [2026-merge-triplets-to-form-target-triplet](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/2026-merge-triplets-to-form-target-triplet) |
 ## Counting
 |  |
 | ------- |
