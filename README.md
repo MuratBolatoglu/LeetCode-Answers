@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0042-trapping-rain-water](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0042-trapping-rain-water) |
+| [0125-valid-palindrome](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0125-valid-palindrome) |
 | [0143-reorder-list](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0143-reorder-list) |
 | [0567-permutation-in-string](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0567-permutation-in-string) |
 ## String
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0022-generate-parentheses](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0022-generate-parentheses) |
+| [0125-valid-palindrome](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0125-valid-palindrome) |
 | [0567-permutation-in-string](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0567-permutation-in-string) |
 ## Sliding Window
 |  |
