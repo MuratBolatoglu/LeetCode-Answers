@@ -126,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0344-reverse-string) |
+| [0412-fizz-buzz](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0412-fizz-buzz) |
 | [0520-detect-capital](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0520-detect-capital) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0567-permutation-in-string](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0567-permutation-in-string) |
@@ -161,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0189-rotate-array) |
+| [0412-fizz-buzz](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0412-fizz-buzz) |
 ## Matrix
 |  |
 | ------- |
@@ -259,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0043-multiply-strings) |
 | [0054-spiral-matrix](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0054-spiral-matrix) |
 | [0289-game-of-life](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0289-game-of-life) |
+| [0412-fizz-buzz](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0412-fizz-buzz) |
 ## Enumeration
 |  |
 | ------- |
