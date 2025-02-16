@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0567-permutation-in-string) |
 | [0742-to-lower-case](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0742-to-lower-case) |
 | [1363-greatest-english-letter-in-upper-and-lower-case](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/1363-greatest-english-letter-in-upper-and-lower-case) |
+| [2235-capitalize-the-title](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/2235-capitalize-the-title) |
 ## Sliding Window
 |  |
 | ------- |
