@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0022-generate-parentheses](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0022-generate-parentheses) |
+| [0043-multiply-strings](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0043-multiply-strings) |
 | [0049-group-anagrams](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0125-valid-palindrome) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0002-add-two-numbers) |
+| [0043-multiply-strings](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0043-multiply-strings) |
 | [0048-rotate-image](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0048-rotate-image) |
 | [0062-unique-paths](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0066-plus-one) |
@@ -193,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0043-multiply-strings) |
 | [0289-game-of-life](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0289-game-of-life) |
 ## Enumeration
 |  |
