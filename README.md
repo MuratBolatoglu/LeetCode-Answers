@@ -115,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0012-integer-to-roman) |
+| [0020-valid-parentheses](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0030-substring-with-concatenation-of-all-words) |
@@ -198,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0042-trapping-rain-water) |
 | [0143-reorder-list](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0143-reorder-list) |
