@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0004-median-of-two-sorted-arrays) |
 | [0048-rotate-image](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0048-rotate-image) |
+| [0066-plus-one](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0074-search-a-2d-matrix) |
 | [0239-sliding-window-maximum](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0239-sliding-window-maximum) |
 | [1127-last-stone-weight](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/1127-last-stone-weight) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0002-add-two-numbers) |
 | [0048-rotate-image](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0048-rotate-image) |
+| [0066-plus-one](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0066-plus-one) |
 ## Matrix
 |  |
 | ------- |
