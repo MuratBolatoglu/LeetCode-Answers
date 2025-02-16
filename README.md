@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0023-merge-k-sorted-lists) |
 | [0239-sliding-window-maximum](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0239-sliding-window-maximum) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1127-last-stone-weight](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/1127-last-stone-weight) |
@@ -93,9 +94,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0004-median-of-two-sorted-arrays) |
+| [0023-merge-k-sorted-lists](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0023-merge-k-sorted-lists) |
 ## Linked List
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0023-merge-k-sorted-lists) |
 | [0143-reorder-list](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0143-reorder-list) |
 ## Stack
 |  |
@@ -105,4 +108,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0143-reorder-list](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0143-reorder-list) |
+## Merge Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->
