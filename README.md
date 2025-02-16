@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0283-move-zeroes) |
 | [0289-game-of-life](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0289-game-of-life) |
 | [0883-car-fleet](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0883-car-fleet) |
+| [1019-squares-of-a-sorted-array](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/1019-squares-of-a-sorted-array) |
 | [1127-last-stone-weight](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/1127-last-stone-weight) |
 | [1503-reducing-dishes](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/1503-reducing-dishes) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/2392-successful-pairs-of-spells-and-potions) |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0344-reverse-string) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0567-permutation-in-string](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0567-permutation-in-string) |
+| [1019-squares-of-a-sorted-array](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/1019-squares-of-a-sorted-array) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/2392-successful-pairs-of-spells-and-potions) |
 ## String
 |  |
@@ -221,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0169-majority-element) |
 | [0883-car-fleet](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0883-car-fleet) |
+| [1019-squares-of-a-sorted-array](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/1019-squares-of-a-sorted-array) |
 | [1503-reducing-dishes](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/1503-reducing-dishes) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/2392-successful-pairs-of-spells-and-potions) |
 ## Monotonic Stack
