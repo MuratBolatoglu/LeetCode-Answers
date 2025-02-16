@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0002-add-two-numbers) |
 | [0048-rotate-image](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0048-rotate-image) |
+| [0062-unique-paths](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0066-plus-one) |
 ## Matrix
 |  |
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0042-trapping-rain-water) |
+| [0062-unique-paths](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0062-unique-paths) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 ## Backtracking
@@ -185,4 +187,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1363-greatest-english-letter-in-upper-and-lower-case](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/1363-greatest-english-letter-in-upper-and-lower-case) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
