@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0907-koko-eating-bananas](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0907-koko-eating-bananas) |
 | [1014-k-closest-points-to-origin](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/1014-k-closest-points-to-origin) |
 | [1019-squares-of-a-sorted-array](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/1019-squares-of-a-sorted-array) |
+| [1036-rotting-oranges](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/1036-rotting-oranges) |
 | [1127-last-stone-weight](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/1127-last-stone-weight) |
 | [1503-reducing-dishes](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/1503-reducing-dishes) |
 | [2026-merge-triplets-to-form-target-triplet](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/2026-merge-triplets-to-form-target-triplet) |
@@ -230,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0240-search-a-2d-matrix-ii) |
 | [0289-game-of-life](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0289-game-of-life) |
 | [0695-max-area-of-island](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0695-max-area-of-island) |
+| [1036-rotting-oranges](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/1036-rotting-oranges) |
 ## Design
 |  |
 | ------- |
@@ -248,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0133-clone-graph](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0133-clone-graph) |
 | [0226-invert-binary-tree](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0226-invert-binary-tree) |
 | [0695-max-area-of-island](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0695-max-area-of-island) |
+| [1036-rotting-oranges](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/1036-rotting-oranges) |
 ## Divide and Conquer
 |  |
 | ------- |
