@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0240-search-a-2d-matrix-ii](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0240-search-a-2d-matrix-ii) |
+| [0278-first-bad-version](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0278-first-bad-version) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0789-kth-largest-element-in-a-stream) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/2392-successful-pairs-of-spells-and-potions) |
 ## Binary Tree
@@ -257,4 +258,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0029-divide-two-integers) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
