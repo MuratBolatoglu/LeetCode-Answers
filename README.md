@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0133-clone-graph](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0133-clone-graph) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0226-invert-binary-tree](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0230-kth-smallest-element-in-a-bst) |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0128-longest-consecutive-sequence) |
+| [0133-clone-graph](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0133-clone-graph) |
 | [0138-copy-list-with-random-pointer](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0169-majority-element) |
@@ -243,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0133-clone-graph](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0133-clone-graph) |
 | [0226-invert-binary-tree](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0226-invert-binary-tree) |
 | [0695-max-area-of-island](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0695-max-area-of-island) |
 ## Divide and Conquer
@@ -402,4 +405,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1014-k-closest-points-to-origin](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/1014-k-closest-points-to-origin) |
+## Graph
+|  |
+| ------- |
+| [0133-clone-graph](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0133-clone-graph) |
 <!---LeetCode Topics End-->
