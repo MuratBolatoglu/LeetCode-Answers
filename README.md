@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0048-rotate-image) |
 | [0239-sliding-window-maximum](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0239-sliding-window-maximum) |
 | [1127-last-stone-weight](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/1127-last-stone-weight) |
 ## Heap (Priority Queue)
@@ -52,4 +53,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0239-sliding-window-maximum) |
+## Math
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0048-rotate-image) |
+## Matrix
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0048-rotate-image) |
 <!---LeetCode Topics End-->
