@@ -135,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0202-happy-number) |
+| [0205-isomorphic-strings](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0205-isomorphic-strings) |
 | [0208-implement-trie-prefix-tree](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0208-implement-trie-prefix-tree) |
 | [0242-valid-anagram](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0268-missing-number) |
@@ -190,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0125-valid-palindrome) |
 | [0127-word-ladder](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0127-word-ladder) |
 | [0151-reverse-words-in-a-string](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0151-reverse-words-in-a-string) |
+| [0205-isomorphic-strings](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0205-isomorphic-strings) |
 | [0208-implement-trie-prefix-tree](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0242-valid-anagram](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0242-valid-anagram) |
