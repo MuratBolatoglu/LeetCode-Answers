@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0130-surrounded-regions) |
 | [0134-gas-station](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0134-gas-station) |
+| [0136-single-number](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0136-single-number) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -388,6 +389,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0029-divide-two-integers) |
+| [0136-single-number](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0136-single-number) |
 | [0287-find-the-duplicate-number](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0287-find-the-duplicate-number) |
 ## Interactive
 |  |
