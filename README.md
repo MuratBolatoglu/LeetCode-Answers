@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0417-pacific-atlantic-water-flow](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0417-pacific-atlantic-water-flow) |
+| [0684-redundant-connection](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0695-max-area-of-island) |
 ## Binary Search Tree
 |  |
@@ -257,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0133-clone-graph](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0133-clone-graph) |
 | [0226-invert-binary-tree](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0226-invert-binary-tree) |
 | [0417-pacific-atlantic-water-flow](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0417-pacific-atlantic-water-flow) |
+| [0684-redundant-connection](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0695-max-area-of-island) |
 | [1036-rotting-oranges](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/1036-rotting-oranges) |
 ## Divide and Conquer
@@ -407,6 +409,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0130-surrounded-regions) |
+| [0684-redundant-connection](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0695-max-area-of-island) |
 ## Trie
 |  |
@@ -421,4 +424,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0133-clone-graph](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0133-clone-graph) |
+| [0684-redundant-connection](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0684-redundant-connection) |
 <!---LeetCode Topics End-->
