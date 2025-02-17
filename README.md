@@ -134,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0138-copy-list-with-random-pointer](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0169-majority-element) |
+| [0202-happy-number](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0202-happy-number) |
 | [0208-implement-trie-prefix-tree](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0208-implement-trie-prefix-tree) |
 | [0242-valid-anagram](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0268-missing-number) |
@@ -163,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0344-reverse-string) |
@@ -229,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0069-sqrtx) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0268-missing-number) |
 | [0371-sum-of-two-integers](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0371-sum-of-two-integers) |
 | [0412-fizz-buzz](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0412-fizz-buzz) |
