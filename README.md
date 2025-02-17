@@ -271,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0004-median-of-two-sorted-arrays) |
 | [0023-merge-k-sorted-lists](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0023-merge-k-sorted-lists) |
 | [0169-majority-element](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0169-majority-element) |
+| [0190-reverse-bits](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0191-number-of-1-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0215-kth-largest-element-in-an-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0240-search-a-2d-matrix-ii) |
@@ -392,6 +393,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0029-divide-two-integers](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0029-divide-two-integers) |
 | [0136-single-number](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0136-single-number) |
+| [0190-reverse-bits](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0191-number-of-1-bits) |
 | [0287-find-the-duplicate-number](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0287-find-the-duplicate-number) |
 | [0338-counting-bits](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0338-counting-bits) |
