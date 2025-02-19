@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0110-balanced-binary-tree](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0110-balanced-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0572-subtree-of-another-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0789-kth-largest-element-in-a-stream) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0211-design-add-and-search-words-data-structure](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0226-invert-binary-tree](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0417-pacific-atlantic-water-flow](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0417-pacific-atlantic-water-flow) |
 | [0543-diameter-of-binary-tree](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0572-subtree-of-another-tree) |
@@ -115,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0240-search-a-2d-matrix-ii](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0278-first-bad-version) |
@@ -131,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0110-balanced-binary-tree](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0110-balanced-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0572-subtree-of-another-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0789-kth-largest-element-in-a-stream) |
