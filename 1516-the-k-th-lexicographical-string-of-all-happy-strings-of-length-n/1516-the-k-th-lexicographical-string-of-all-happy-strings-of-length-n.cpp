@@ -3,7 +3,7 @@ public:
     vector<string> ans;
     string getHappyString(int n, int k) {
         generate(n,"",0);
-        sort(ans.begin(),ans.end());
+        //sort(ans.begin(),ans.end());
         if(ans.size()<k) return "";
         return ans[k-1];
     }
