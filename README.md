@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1019-squares-of-a-sorted-array](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/1019-squares-of-a-sorted-array) |
 | [1036-rotting-oranges](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/1036-rotting-oranges) |
 | [1127-last-stone-weight](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/1127-last-stone-weight) |
+| [1392-find-the-difference-of-two-arrays](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1503-reducing-dishes](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/1503-reducing-dishes) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1706-min-cost-to-connect-all-points](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/1706-min-cost-to-connect-all-points) |
@@ -193,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0768-partition-labels](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0768-partition-labels) |
 | [0876-hand-of-straights](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0876-hand-of-straights) |
 | [1363-greatest-english-letter-in-upper-and-lower-case](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/1363-greatest-english-letter-in-upper-and-lower-case) |
+| [1392-find-the-difference-of-two-arrays](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/1392-find-the-difference-of-two-arrays) |
 ## Two Pointers
 |  |
 | ------- |
