@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0417-pacific-atlantic-water-flow](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0417-pacific-atlantic-water-flow) |
 | [0435-non-overlapping-intervals](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0435-non-overlapping-intervals) |
 | [0621-task-scheduler](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0621-task-scheduler) |
+| [0643-maximum-average-subarray-i](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0643-maximum-average-subarray-i) |
 | [0695-max-area-of-island](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0695-max-area-of-island) |
 | [0792-binary-search](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0792-binary-search) |
 | [0876-hand-of-straights](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0876-hand-of-straights) |
@@ -272,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0219-contains-duplicate-ii) |
 | [0239-sliding-window-maximum](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0239-sliding-window-maximum) |
 | [0567-permutation-in-string](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0567-permutation-in-string) |
+| [0643-maximum-average-subarray-i](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0643-maximum-average-subarray-i) |
 ## Queue
 |  |
 | ------- |
