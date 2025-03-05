@@ -221,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0567-permutation-in-string) |
 | [0768-partition-labels](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0768-partition-labels) |
 | [1019-squares-of-a-sorted-array](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/1019-squares-of-a-sorted-array) |
+| [1894-merge-strings-alternately](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/1894-merge-strings-alternately) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/2392-successful-pairs-of-spells-and-potions) |
 ## String
 |  |
@@ -256,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0768-partition-labels](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0768-partition-labels) |
 | [1363-greatest-english-letter-in-upper-and-lower-case](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/1363-greatest-english-letter-in-upper-and-lower-case) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
+| [1894-merge-strings-alternately](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/1894-merge-strings-alternately) |
 | [2235-capitalize-the-title](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/2235-capitalize-the-title) |
 | [3709-find-special-substring-of-length-k](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/3709-find-special-substring-of-length-k) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
