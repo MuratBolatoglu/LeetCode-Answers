@@ -217,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0344-reverse-string) |
+| [0345-reverse-vowels-of-a-string](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0392-is-subsequence) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0567-permutation-in-string](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0567-permutation-in-string) |
@@ -249,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0290-word-pattern) |
 | [0344-reverse-string](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0344-reverse-string) |
+| [0345-reverse-vowels-of-a-string](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0392-is-subsequence) |
 | [0412-fizz-buzz](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0412-fizz-buzz) |
 | [0520-detect-capital](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0520-detect-capital) |
