@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1706-min-cost-to-connect-all-points](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/1706-min-cost-to-connect-all-points) |
 | [2026-merge-triplets-to-form-target-triplet](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/2026-merge-triplets-to-form-target-triplet) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/2392-successful-pairs-of-spells-and-potions) |
+| [2551-apply-operations-to-an-array](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/2551-apply-operations-to-an-array) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [3764-maximum-sum-with-at-most-k-elements](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/3764-maximum-sum-with-at-most-k-elements) |
 ## Heap (Priority Queue)
@@ -242,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1019-squares-of-a-sorted-array](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/1019-squares-of-a-sorted-array) |
 | [1894-merge-strings-alternately](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/1894-merge-strings-alternately) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/2392-successful-pairs-of-spells-and-potions) |
+| [2551-apply-operations-to-an-array](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/2551-apply-operations-to-an-array) |
 ## String
 |  |
 | ------- |
@@ -504,6 +506,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0054-spiral-matrix) |
 | [0289-game-of-life](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0289-game-of-life) |
 | [0412-fizz-buzz](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0412-fizz-buzz) |
+| [2551-apply-operations-to-an-array](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/2551-apply-operations-to-an-array) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Enumeration
 |  |
