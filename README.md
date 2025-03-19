@@ -115,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0572-subtree-of-another-tree) |
+| [0637-average-of-levels-in-binary-tree](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Depth-First Search
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0417-pacific-atlantic-water-flow](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0417-pacific-atlantic-water-flow) |
 | [0543-diameter-of-binary-tree](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0572-subtree-of-another-tree) |
+| [0637-average-of-levels-in-binary-tree](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0684-redundant-connection](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0695-max-area-of-island) |
 | [0744-network-delay-time](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0744-network-delay-time) |
@@ -180,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0572-subtree-of-another-tree) |
+| [0637-average-of-levels-in-binary-tree](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Hash Table
@@ -375,6 +378,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0226-invert-binary-tree) |
 | [0417-pacific-atlantic-water-flow](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0417-pacific-atlantic-water-flow) |
+| [0637-average-of-levels-in-binary-tree](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0684-redundant-connection](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0695-max-area-of-island) |
 | [0744-network-delay-time](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0744-network-delay-time) |
