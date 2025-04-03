@@ -3,28 +3,26 @@ public:
     string countAndSay(int n) {
         string start = "1";
         for (int j = 0; j < n - 1; j++) {
-            vector<vector<string>> c = counter(start);
+            vector<pair<int, char>> c = counter(start);
             string temp = "";
             for (auto& i : c) {
-                temp += i[0] + i[1];  // Concatenate count and character
+                temp += to_string(i.first) + i.second;
             }
             start = temp;
         }
         return start;
     }
-
-    vector<vector<string>> counter(string str) {
-        vector<vector<string>> ret;
+    vector<pair<int, char>> counter(string str) {
+        vector<pair<int, char>> ret;
         int curr = 1;
         for (size_t i = 1; i < str.size(); i++) {
-            if (str[i] == str[i - 1]) {
-                curr++;
-            } else {
-                ret.push_back({to_string(curr), string(1, str[i - 1])}); // Store char as string
+            if (str[i] == str[i - 1]) curr++;    
+            else {
+                ret.push_back({curr, str[i - 1]});
                 curr = 1;
             }
         }
-        ret.push_back({to_string(curr), string(1, str.back())});  // Add last counted group
+        ret.push_back({curr, str.back()});
         return ret;
     }
 };
