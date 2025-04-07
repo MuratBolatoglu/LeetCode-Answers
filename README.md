@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0057-insert-interval](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0057-insert-interval) |
 | [0064-minimum-path-sum](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0066-plus-one) |
+| [0068-text-justification](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0068-text-justification) |
 | [0073-set-matrix-zeroes](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0075-sort-colors) |
@@ -284,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0043-multiply-strings) |
 | [0049-group-anagrams](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0058-length-of-last-word) |
+| [0068-text-justification](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0068-text-justification) |
 | [0071-simplify-path](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0071-simplify-path) |
 | [0125-valid-palindrome](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0125-valid-palindrome) |
 | [0127-word-ladder](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0127-word-ladder) |
@@ -543,6 +545,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0043-multiply-strings](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0043-multiply-strings) |
 | [0054-spiral-matrix](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0054-spiral-matrix) |
+| [0068-text-justification](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0068-text-justification) |
 | [0289-game-of-life](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0289-game-of-life) |
 | [0412-fizz-buzz](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0412-fizz-buzz) |
 | [2551-apply-operations-to-an-array](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/2551-apply-operations-to-an-array) |
