@@ -27,15 +27,12 @@ public:
             } else {
                 int totalLength = 0;
                 for (auto& word : lines[i]) totalLength += word.size();
-                int spaceSize = width - totalLength;
-                int gaps = lines[i].size() - 1;
-                int spacesPerGap = spaceSize / gaps;
-                int extraSpaces = spaceSize % gaps;
+                int spaceSize = width - totalLength,gaps = lines[i].size() - 1,spacesPerGap = spaceSize / gaps,extraSpaces = spaceSize % gaps;
                 for (size_t j = 0; j < lines[i].size(); j++) {
                     app += lines[i][j]; 
                     if (j < lines[i].size() - 1) { 
                         int spaceToAdd = spacesPerGap + (j < extraSpaces ? 1 : 0);
-                        app += string(spaceToAdd, ' ');
+                        app+=string(spaceToAdd, ' ');
                     }
                 }
             }
