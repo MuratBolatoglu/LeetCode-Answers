@@ -116,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0199-binary-tree-right-side-view](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0199-binary-tree-right-side-view) |
+| [0222-count-complete-tree-nodes](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
@@ -163,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0209-minimum-size-subarray-sum) |
+| [0222-count-complete-tree-nodes](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0222-count-complete-tree-nodes) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0240-search-a-2d-matrix-ii](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0240-search-a-2d-matrix-ii) |
@@ -187,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0199-binary-tree-right-side-view](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0199-binary-tree-right-side-view) |
+| [0222-count-complete-tree-nodes](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
@@ -572,6 +575,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0137-single-number-ii](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0137-single-number-ii) |
 | [0190-reverse-bits](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0191-number-of-1-bits) |
+| [0222-count-complete-tree-nodes](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0287-find-the-duplicate-number) |
 | [0338-counting-bits](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0338-counting-bits) |
