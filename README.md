@@ -120,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0572-subtree-of-another-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0637-average-of-levels-in-binary-tree) |
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0230-kth-smallest-element-in-a-bst](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0417-pacific-atlantic-water-flow](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0417-pacific-atlantic-water-flow) |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0572-subtree-of-another-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0637-average-of-levels-in-binary-tree) |
@@ -171,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0278-first-bad-version) |
 | [0287-find-the-duplicate-number](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0287-find-the-duplicate-number) |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0792-binary-search](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0907-koko-eating-bananas) |
@@ -193,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0572-subtree-of-another-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0637-average-of-levels-in-binary-tree) |
@@ -402,6 +406,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0226-invert-binary-tree) |
 | [0417-pacific-atlantic-water-flow](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0417-pacific-atlantic-water-flow) |
 | [0433-minimum-genetic-mutation](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0433-minimum-genetic-mutation) |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0684-redundant-connection](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0695-max-area-of-island) |
