@@ -340,6 +340,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0239-sliding-window-maximum) |
 | [0649-dota2-senate](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0649-dota2-senate) |
+| [0969-number-of-recent-calls](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0969-number-of-recent-calls) |
 ## Monotonic Queue
 |  |
 | ------- |
@@ -393,11 +394,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0295-find-median-from-data-stream](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0295-find-median-from-data-stream) |
 | [0355-design-twitter](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0355-design-twitter) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0789-kth-largest-element-in-a-stream) |
+| [0969-number-of-recent-calls](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0969-number-of-recent-calls) |
 ## Data Stream
 |  |
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0295-find-median-from-data-stream) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0789-kth-largest-element-in-a-stream) |
+| [0969-number-of-recent-calls](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0969-number-of-recent-calls) |
 ## Breadth-First Search
 |  |
 | ------- |
