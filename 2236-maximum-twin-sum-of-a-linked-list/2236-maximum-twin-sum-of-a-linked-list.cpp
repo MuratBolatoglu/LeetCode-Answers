@@ -12,11 +12,11 @@ class Solution {
 public:
     int pairSum(ListNode* head) {
         ListNode* fast=head,*mid=head,*temp=nullptr,*curr=head;;
-        while(fast != nullptr){
+        while(fast ){
             fast=fast->next->next;
             mid=mid->next;
         }
-        while(mid != nullptr){
+        while(mid ){
             ListNode *add=new ListNode(mid->val);
             if(temp==nullptr) temp=add;
             else{
@@ -26,7 +26,7 @@ public:
             mid=mid->next;
         }
         int ans=INT_MIN;
-        while(temp!=nullptr){
+        while(temp){
             ans=max(ans,temp->val + curr->val);
             curr=curr->next;
             temp=temp->next;
