@@ -127,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0572-subtree-of-another-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0637-average-of-levels-in-binary-tree) |
+| [0783-search-in-a-binary-search-tree](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0783-search-in-a-binary-search-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/1544-count-good-nodes-in-binary-tree) |
@@ -180,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0278-first-bad-version](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0278-first-bad-version) |
 | [0287-find-the-duplicate-number](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0287-find-the-duplicate-number) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0530-minimum-absolute-difference-in-bst) |
+| [0783-search-in-a-binary-search-tree](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0783-search-in-a-binary-search-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0792-binary-search](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0907-koko-eating-bananas) |
@@ -206,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0572-subtree-of-another-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0637-average-of-levels-in-binary-tree) |
+| [0783-search-in-a-binary-search-tree](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0783-search-in-a-binary-search-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/1544-count-good-nodes-in-binary-tree) |
