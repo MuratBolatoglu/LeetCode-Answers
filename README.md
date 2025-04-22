@@ -330,6 +330,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0768-partition-labels](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0768-partition-labels) |
 | [1363-greatest-english-letter-in-upper-and-lower-case](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/1363-greatest-english-letter-in-upper-and-lower-case) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
+| [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1894-merge-strings-alternately](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/1894-merge-strings-alternately) |
 | [2235-capitalize-the-title](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/2235-capitalize-the-title) |
 | [2470-removing-stars-from-a-string](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/2470-removing-stars-from-a-string) |
@@ -345,6 +346,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0239-sliding-window-maximum) |
 | [0567-permutation-in-string](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0643-maximum-average-subarray-i) |
+| [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 ## Queue
 |  |
 | ------- |
