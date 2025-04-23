@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1392-find-the-difference-of-two-arrays](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1503-reducing-dishes](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/1503-reducing-dishes) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/1528-kids-with-the-greatest-number-of-candies) |
+| [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1706-min-cost-to-connect-all-points](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/1706-min-cost-to-connect-all-points) |
 | [1833-find-the-highest-altitude](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/1833-find-the-highest-altitude) |
 | [2026-merge-triplets-to-form-target-triplet](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/2026-merge-triplets-to-form-target-triplet) |
@@ -358,6 +359,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0643-maximum-average-subarray-i) |
 | [1046-max-consecutive-ones-iii](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/1046-max-consecutive-ones-iii) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 ## Queue
 |  |
 | ------- |
@@ -532,6 +534,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0392-is-subsequence) |
 | [0435-non-overlapping-intervals](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0435-non-overlapping-intervals) |
 | [1503-reducing-dishes](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/1503-reducing-dishes) |
+| [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 ## Backtracking
 |  |
 | ------- |
