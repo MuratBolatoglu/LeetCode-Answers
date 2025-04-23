@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0695-max-area-of-island) |
 | [0724-find-pivot-index](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0724-find-pivot-index) |
 | [0735-asteroid-collision](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0735-asteroid-collision) |
+| [0739-daily-temperatures](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0739-daily-temperatures) |
 | [0792-binary-search](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0792-binary-search) |
 | [0876-hand-of-straights](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0876-hand-of-straights) |
 | [0883-car-fleet](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0883-car-fleet) |
@@ -503,6 +504,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0234-palindrome-linked-list) |
 | [0735-asteroid-collision](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0735-asteroid-collision) |
+| [0739-daily-temperatures](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0739-daily-temperatures) |
 | [0883-car-fleet](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0883-car-fleet) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 | [2470-removing-stars-from-a-string](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/2470-removing-stars-from-a-string) |
@@ -581,6 +583,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0042-trapping-rain-water) |
+| [0739-daily-temperatures](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0739-daily-temperatures) |
 | [0883-car-fleet](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0883-car-fleet) |
 ## Greedy
 |  |
