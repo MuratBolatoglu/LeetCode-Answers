@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2026-merge-triplets-to-form-target-triplet](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/2026-merge-triplets-to-form-target-triplet) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/2392-successful-pairs-of-spells-and-potions) |
+| [2428-equal-row-and-column-pairs](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/2428-equal-row-and-column-pairs) |
 | [2551-apply-operations-to-an-array](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/2551-apply-operations-to-an-array) |
 | [2553-total-cost-to-hire-k-workers](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/2553-total-cost-to-hire-k-workers) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
@@ -260,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1392-find-the-difference-of-two-arrays](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1777-determine-if-two-strings-are-close](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/1777-determine-if-two-strings-are-close) |
 | [2413-smallest-number-in-infinite-set](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/2413-smallest-number-in-infinite-set) |
+| [2428-equal-row-and-column-pairs](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/2428-equal-row-and-column-pairs) |
 ## Two Pointers
 |  |
 | ------- |
@@ -412,6 +414,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0695-max-area-of-island) |
 | [1036-rotting-oranges](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/1036-rotting-oranges) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/2038-nearest-exit-from-entrance-in-maze) |
+| [2428-equal-row-and-column-pairs](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/2428-equal-row-and-column-pairs) |
 | [3764-maximum-sum-with-at-most-k-elements](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/3764-maximum-sum-with-at-most-k-elements) |
 ## Design
 |  |
@@ -613,6 +616,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0289-game-of-life](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0289-game-of-life) |
 | [0412-fizz-buzz](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0412-fizz-buzz) |
 | [0735-asteroid-collision](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0735-asteroid-collision) |
+| [2428-equal-row-and-column-pairs](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/2428-equal-row-and-column-pairs) |
 | [2470-removing-stars-from-a-string](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/2470-removing-stars-from-a-string) |
 | [2551-apply-operations-to-an-array](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/2551-apply-operations-to-an-array) |
 | [2553-total-cost-to-hire-k-workers](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/2553-total-cost-to-hire-k-workers) |
