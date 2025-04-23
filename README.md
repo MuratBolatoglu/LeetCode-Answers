@@ -141,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0789-kth-largest-element-in-a-stream](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0904-leaf-similar-trees](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0904-leaf-similar-trees) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
+| [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Depth-First Search
 |  |
@@ -171,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0871-keys-and-rooms](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0871-keys-and-rooms) |
 | [0904-leaf-similar-trees](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0904-leaf-similar-trees) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
+| [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Binary Search Tree
 |  |
@@ -226,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0789-kth-largest-element-in-a-stream](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0904-leaf-similar-trees](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0904-leaf-similar-trees) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
+| [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Hash Table
 |  |
@@ -543,6 +546,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0338-counting-bits](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0392-is-subsequence) |
 | [0435-non-overlapping-intervals](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0435-non-overlapping-intervals) |
+| [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 | [1503-reducing-dishes](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/1503-reducing-dishes) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 ## Backtracking
