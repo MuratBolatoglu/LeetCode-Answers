@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1706-min-cost-to-connect-all-points](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/1706-min-cost-to-connect-all-points) |
+| [1798-max-number-of-k-sum-pairs](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1833-find-the-highest-altitude](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/1833-find-the-highest-altitude) |
 | [2026-merge-triplets-to-form-target-triplet](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/2026-merge-triplets-to-form-target-triplet) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/2038-nearest-exit-from-entrance-in-maze) |
@@ -268,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1363-greatest-english-letter-in-upper-and-lower-case](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/1363-greatest-english-letter-in-upper-and-lower-case) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1777-determine-if-two-strings-are-close](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/1777-determine-if-two-strings-are-close) |
+| [1798-max-number-of-k-sum-pairs](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2413-smallest-number-in-infinite-set](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/2413-smallest-number-in-infinite-set) |
 | [2428-equal-row-and-column-pairs](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/2428-equal-row-and-column-pairs) |
 ## Two Pointers
@@ -306,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0567-permutation-in-string) |
 | [0768-partition-labels](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0768-partition-labels) |
 | [1019-squares-of-a-sorted-array](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/1019-squares-of-a-sorted-array) |
+| [1798-max-number-of-k-sum-pairs](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1894-merge-strings-alternately](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/1894-merge-strings-alternately) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
@@ -587,6 +590,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1019-squares-of-a-sorted-array](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/1019-squares-of-a-sorted-array) |
 | [1503-reducing-dishes](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/1503-reducing-dishes) |
 | [1777-determine-if-two-strings-are-close](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/1777-determine-if-two-strings-are-close) |
+| [1798-max-number-of-k-sum-pairs](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [3764-maximum-sum-with-at-most-k-elements](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/3764-maximum-sum-with-at-most-k-elements) |
 ## Monotonic Stack
