@@ -136,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0129-sum-root-to-leaf-numbers) |
+| [0144-binary-tree-preorder-traversal](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0144-binary-tree-preorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0199-binary-tree-right-side-view) |
 | [0222-count-complete-tree-nodes](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0226-invert-binary-tree) |
@@ -167,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0129-sum-root-to-leaf-numbers](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0130-surrounded-regions](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0130-surrounded-regions) |
 | [0133-clone-graph](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0133-clone-graph) |
+| [0144-binary-tree-preorder-traversal](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0144-binary-tree-preorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0200-number-of-islands) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0211-design-add-and-search-words-data-structure) |
@@ -232,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0129-sum-root-to-leaf-numbers) |
+| [0144-binary-tree-preorder-traversal](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0144-binary-tree-preorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0199-binary-tree-right-side-view) |
 | [0222-count-complete-tree-nodes](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0226-invert-binary-tree) |
@@ -539,6 +542,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0071-simplify-path](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0071-simplify-path) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0143-reorder-list](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0143-reorder-list) |
+| [0144-binary-tree-preorder-traversal](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0144-binary-tree-preorder-traversal) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0234-palindrome-linked-list) |
