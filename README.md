@@ -142,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0257-binary-tree-paths](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0257-binary-tree-paths) |
 | [0450-delete-node-in-a-bst](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0450-delete-node-in-a-bst) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0543-diameter-of-binary-tree) |
@@ -175,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0257-binary-tree-paths](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0257-binary-tree-paths) |
 | [0417-pacific-atlantic-water-flow](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0417-pacific-atlantic-water-flow) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0543-diameter-of-binary-tree) |
@@ -240,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0257-binary-tree-paths](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0257-binary-tree-paths) |
 | [0450-delete-node-in-a-bst](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0450-delete-node-in-a-bst) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0543-diameter-of-binary-tree) |
@@ -362,6 +365,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0208-implement-trie-prefix-tree](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0242-valid-anagram](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0242-valid-anagram) |
+| [0257-binary-tree-paths](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0257-binary-tree-paths) |
 | [0290-word-pattern](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0290-word-pattern) |
 | [0344-reverse-string](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0345-reverse-vowels-of-a-string) |
@@ -602,6 +606,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0090-subsets-ii) |
+| [0257-binary-tree-paths](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0257-binary-tree-paths) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 ## Sorting
 |  |
