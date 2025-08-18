@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0289-game-of-life](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0289-game-of-life) |
 | [0334-increasing-triplet-subsequence](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0334-increasing-triplet-subsequence) |
 | [0347-top-k-frequent-elements](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0347-top-k-frequent-elements) |
+| [0373-find-k-pairs-with-smallest-sums](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0417-pacific-atlantic-water-flow](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0417-pacific-atlantic-water-flow) |
 | [0435-non-overlapping-intervals](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0295-find-median-from-data-stream](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0347-top-k-frequent-elements) |
 | [0355-design-twitter](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0355-design-twitter) |
+| [0373-find-k-pairs-with-smallest-sums](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0502-ipo](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0502-ipo) |
 | [0621-task-scheduler](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0621-task-scheduler) |
 | [0744-network-delay-time](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0744-network-delay-time) |
