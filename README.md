@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0287-find-the-duplicate-number) |
 | [0289-game-of-life](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0289-game-of-life) |
+| [0303-range-sum-query-immutable](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0303-range-sum-query-immutable) |
 | [0334-increasing-triplet-subsequence](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0334-increasing-triplet-subsequence) |
 | [0347-top-k-frequent-elements](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0347-top-k-frequent-elements) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0373-find-k-pairs-with-smallest-sums) |
@@ -474,6 +475,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0208-implement-trie-prefix-tree](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0295-find-median-from-data-stream](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0295-find-median-from-data-stream) |
+| [0303-range-sum-query-immutable](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0303-range-sum-query-immutable) |
 | [0355-design-twitter](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0355-design-twitter) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0969-number-of-recent-calls](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0969-number-of-recent-calls) |
@@ -792,6 +794,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0238-product-of-array-except-self) |
+| [0303-range-sum-query-immutable](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0303-range-sum-query-immutable) |
 | [0724-find-pivot-index](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0724-find-pivot-index) |
 | [1046-max-consecutive-ones-iii](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/1046-max-consecutive-ones-iii) |
 | [1833-find-the-highest-altitude](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/1833-find-the-highest-altitude) |
