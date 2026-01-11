@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1706-min-cost-to-connect-all-points](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/1706-min-cost-to-connect-all-points) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1833-find-the-highest-altitude](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/1833-find-the-highest-altitude) |
+| [1929-concatenation-of-array](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/1929-concatenation-of-array) |
 | [2026-merge-triplets-to-form-target-triplet](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/2026-merge-triplets-to-form-target-triplet) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/2392-successful-pairs-of-spells-and-potions) |
@@ -702,6 +703,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0289-game-of-life](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0289-game-of-life) |
 | [0412-fizz-buzz](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0412-fizz-buzz) |
 | [0735-asteroid-collision](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0735-asteroid-collision) |
+| [1929-concatenation-of-array](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/1929-concatenation-of-array) |
 | [2428-equal-row-and-column-pairs](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/2428-equal-row-and-column-pairs) |
 | [2470-removing-stars-from-a-string](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/2470-removing-stars-from-a-string) |
 | [2551-apply-operations-to-an-array](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/2551-apply-operations-to-an-array) |
