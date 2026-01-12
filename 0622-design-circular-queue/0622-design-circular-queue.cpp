@@ -2,41 +2,29 @@ class MyCircularQueue {
 public:
     int size=0,index=0,max_size;
     vector<int> q;
-    MyCircularQueue(int k) {
-        max_size=k;
-    }
-    
+    MyCircularQueue(int k) { max_size=k; }
     bool enQueue(int value) {
         if(isFull()) return false;
         q.push_back(value);
         size++;
         return true;
     }
-    
     bool deQueue() {
         if(isEmpty()) return false;
         index++;
         size--;
         return true;
     }
-    
     int Front() {
         if(isEmpty()) return -1;
         return q[index];
     }
-    
     int Rear() {
         if(isEmpty()) return -1;
         return q.back();
     }
-    
-    bool isEmpty() {
-        return size==0;
-    }
-    
-    bool isFull() {
-        return size==max_size;
-    }
+    bool isEmpty() { return size==0; }
+    bool isFull() { return size==max_size; }     
 };
 
 /**
