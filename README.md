@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0502-ipo](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0502-ipo) |
 | [0605-can-place-flowers](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0605-can-place-flowers) |
 | [0621-task-scheduler](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0621-task-scheduler) |
+| [0622-design-circular-queue](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0622-design-circular-queue) |
 | [0643-maximum-average-subarray-i](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0643-maximum-average-subarray-i) |
 | [0695-max-area-of-island](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0695-max-area-of-island) |
 | [0724-find-pivot-index](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0724-find-pivot-index) |
@@ -419,6 +420,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0239-sliding-window-maximum) |
+| [0622-design-circular-queue](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0622-design-circular-queue) |
 | [0649-dota2-senate](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0649-dota2-senate) |
 | [0969-number-of-recent-calls](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0969-number-of-recent-calls) |
 ## Monotonic Queue
@@ -484,6 +486,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0295-find-median-from-data-stream](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0295-find-median-from-data-stream) |
 | [0303-range-sum-query-immutable](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0303-range-sum-query-immutable) |
 | [0355-design-twitter](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0355-design-twitter) |
+| [0622-design-circular-queue](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0622-design-circular-queue) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0969-number-of-recent-calls](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0969-number-of-recent-calls) |
 | [2413-smallest-number-in-infinite-set](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/2413-smallest-number-in-infinite-set) |
@@ -559,6 +562,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0237-delete-node-in-a-linked-list) |
 | [0355-design-twitter](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0355-design-twitter) |
+| [0622-design-circular-queue](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0622-design-circular-queue) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 ## Stack
