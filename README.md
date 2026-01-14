@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0622-design-circular-queue](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0622-design-circular-queue) |
 | [0643-maximum-average-subarray-i](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0643-maximum-average-subarray-i) |
 | [0695-max-area-of-island](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0695-max-area-of-island) |
+| [0705-design-hashset](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0705-design-hashset) |
 | [0724-find-pivot-index](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0724-find-pivot-index) |
 | [0735-asteroid-collision](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0739-daily-temperatures) |
@@ -297,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0433-minimum-genetic-mutation](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0433-minimum-genetic-mutation) |
 | [0567-permutation-in-string](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0567-permutation-in-string) |
 | [0621-task-scheduler](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0621-task-scheduler) |
+| [0705-design-hashset](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0705-design-hashset) |
 | [0768-partition-labels](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0768-partition-labels) |
 | [0876-hand-of-straights](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0876-hand-of-straights) |
 | [1319-unique-number-of-occurrences](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/1319-unique-number-of-occurrences) |
@@ -489,6 +491,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0303-range-sum-query-immutable](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0303-range-sum-query-immutable) |
 | [0355-design-twitter](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0355-design-twitter) |
 | [0622-design-circular-queue](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0622-design-circular-queue) |
+| [0705-design-hashset](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0705-design-hashset) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0969-number-of-recent-calls](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0969-number-of-recent-calls) |
 | [2413-smallest-number-in-infinite-set](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/2413-smallest-number-in-infinite-set) |
@@ -565,6 +568,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0237-delete-node-in-a-linked-list](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0237-delete-node-in-a-linked-list) |
 | [0355-design-twitter](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0355-design-twitter) |
 | [0622-design-circular-queue](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0622-design-circular-queue) |
+| [0705-design-hashset](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0705-design-hashset) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 ## Stack
@@ -794,6 +798,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0572-subtree-of-another-tree) |
+| [0705-design-hashset](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0705-design-hashset) |
 ## Shortest Path
 |  |
 | ------- |
