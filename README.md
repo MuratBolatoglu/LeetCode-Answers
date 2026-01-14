@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2551-apply-operations-to-an-array](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/2551-apply-operations-to-an-array) |
 | [2553-total-cost-to-hire-k-workers](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/2553-total-cost-to-hire-k-workers) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
+| [2678-number-of-senior-citizens](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/2678-number-of-senior-citizens) |
 | [3764-maximum-sum-with-at-most-k-elements](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/3764-maximum-sum-with-at-most-k-elements) |
 ## Heap (Priority Queue)
 |  |
@@ -406,6 +407,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1894-merge-strings-alternately](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/1894-merge-strings-alternately) |
 | [2235-capitalize-the-title](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/2235-capitalize-the-title) |
 | [2470-removing-stars-from-a-string](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/2470-removing-stars-from-a-string) |
+| [2678-number-of-senior-citizens](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/2678-number-of-senior-citizens) |
 | [3110-score-of-a-string](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/3110-score-of-a-string) |
 | [3709-find-special-substring-of-length-k](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/3709-find-special-substring-of-length-k) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
