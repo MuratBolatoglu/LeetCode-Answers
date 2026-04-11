@@ -314,6 +314,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1798-max-number-of-k-sum-pairs](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2413-smallest-number-in-infinite-set](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/2413-smallest-number-in-infinite-set) |
 | [2428-equal-row-and-column-pairs](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/2428-equal-row-and-column-pairs) |
+| [3442-maximum-difference-between-even-and-odd-frequency-i](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/3442-maximum-difference-between-even-and-odd-frequency-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -413,6 +414,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2470-removing-stars-from-a-string](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/2470-removing-stars-from-a-string) |
 | [2678-number-of-senior-citizens](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/2678-number-of-senior-citizens) |
 | [3110-score-of-a-string](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/3110-score-of-a-string) |
+| [3442-maximum-difference-between-even-and-odd-frequency-i](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/3442-maximum-difference-between-even-and-odd-frequency-i) |
 | [3709-find-special-substring-of-length-k](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/3709-find-special-substring-of-length-k) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Sliding Window
@@ -718,6 +720,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0621-task-scheduler) |
 | [1777-determine-if-two-strings-are-close](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/1777-determine-if-two-strings-are-close) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
+| [3442-maximum-difference-between-even-and-odd-frequency-i](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/3442-maximum-difference-between-even-and-odd-frequency-i) |
 ## Simulation
 |  |
 | ------- |
