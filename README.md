@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0485-max-consecutive-ones](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0485-max-consecutive-ones) |
 | [0502-ipo](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0502-ipo) |
+| [0560-subarray-sum-equals-k](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0560-subarray-sum-equals-k) |
 | [0605-can-place-flowers](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0605-can-place-flowers) |
 | [0621-task-scheduler](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0621-task-scheduler) |
 | [0622-design-circular-queue](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0622-design-circular-queue) |
@@ -302,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0347-top-k-frequent-elements) |
 | [0355-design-twitter](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0355-design-twitter) |
 | [0433-minimum-genetic-mutation](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0433-minimum-genetic-mutation) |
+| [0560-subarray-sum-equals-k](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0567-permutation-in-string) |
 | [0621-task-scheduler](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0621-task-scheduler) |
 | [0705-design-hashset](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0705-design-hashset) |
@@ -840,6 +842,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0304-range-sum-query-2d-immutable) |
+| [0560-subarray-sum-equals-k](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0724-find-pivot-index) |
 | [1046-max-consecutive-ones-iii](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/1046-max-consecutive-ones-iii) |
 | [1833-find-the-highest-altitude](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/1833-find-the-highest-altitude) |
