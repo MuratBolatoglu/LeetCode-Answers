@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0287-find-the-duplicate-number) |
 | [0289-game-of-life](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0289-game-of-life) |
 | [0303-range-sum-query-immutable](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0303-range-sum-query-immutable) |
+| [0304-range-sum-query-2d-immutable](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0304-range-sum-query-2d-immutable) |
 | [0334-increasing-triplet-subsequence](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0334-increasing-triplet-subsequence) |
 | [0347-top-k-frequent-elements](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0347-top-k-frequent-elements) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0373-find-k-pairs-with-smallest-sums) |
@@ -484,6 +485,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0200-number-of-islands) |
 | [0240-search-a-2d-matrix-ii](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0240-search-a-2d-matrix-ii) |
 | [0289-game-of-life](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0289-game-of-life) |
+| [0304-range-sum-query-2d-immutable](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0304-range-sum-query-2d-immutable) |
 | [0417-pacific-atlantic-water-flow](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0417-pacific-atlantic-water-flow) |
 | [0695-max-area-of-island](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0695-max-area-of-island) |
 | [0945-snakes-and-ladders](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0945-snakes-and-ladders) |
@@ -501,6 +503,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0225-implement-stack-using-queues) |
 | [0295-find-median-from-data-stream](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0295-find-median-from-data-stream) |
 | [0303-range-sum-query-immutable](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0303-range-sum-query-immutable) |
+| [0304-range-sum-query-2d-immutable](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0304-range-sum-query-2d-immutable) |
 | [0355-design-twitter](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0355-design-twitter) |
 | [0622-design-circular-queue](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0622-design-circular-queue) |
 | [0705-design-hashset](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0705-design-hashset) |
@@ -836,6 +839,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0303-range-sum-query-immutable) |
+| [0304-range-sum-query-2d-immutable](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0304-range-sum-query-2d-immutable) |
 | [0724-find-pivot-index](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0724-find-pivot-index) |
 | [1046-max-consecutive-ones-iii](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/1046-max-consecutive-ones-iii) |
 | [1833-find-the-highest-altitude](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/1833-find-the-highest-altitude) |
