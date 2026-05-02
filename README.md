@@ -470,6 +470,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0326-power-of-three) |
 | [0371-sum-of-two-integers](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0371-sum-of-two-integers) |
 | [0412-fizz-buzz](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0412-fizz-buzz) |
+| [0788-rotated-digits](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0788-rotated-digits) |
 | [1014-k-closest-points-to-origin](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/1014-k-closest-points-to-origin) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1236-n-th-tribonacci-number](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/1236-n-th-tribonacci-number) |
@@ -649,6 +650,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0392-is-subsequence) |
 | [0435-non-overlapping-intervals](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0435-non-overlapping-intervals) |
 | [0747-min-cost-climbing-stairs](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0747-min-cost-climbing-stairs) |
+| [0788-rotated-digits](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0788-rotated-digits) |
 | [1236-n-th-tribonacci-number](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/1236-n-th-tribonacci-number) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 | [1503-reducing-dishes](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/1503-reducing-dishes) |
