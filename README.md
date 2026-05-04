@@ -514,6 +514,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0706-design-hashmap](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0706-design-hashmap) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0895-maximum-frequency-stack](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0895-maximum-frequency-stack) |
+| [0901-online-stock-span](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0901-online-stock-span) |
 | [0969-number-of-recent-calls](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0969-number-of-recent-calls) |
 | [2413-smallest-number-in-infinite-set](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/2413-smallest-number-in-infinite-set) |
 ## Data Stream
@@ -521,6 +522,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0295-find-median-from-data-stream) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0789-kth-largest-element-in-a-stream) |
+| [0901-online-stock-span](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0901-online-stock-span) |
 | [0969-number-of-recent-calls](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0969-number-of-recent-calls) |
 ## Breadth-First Search
 |  |
@@ -611,6 +613,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0739-daily-temperatures) |
 | [0883-car-fleet](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0883-car-fleet) |
 | [0895-maximum-frequency-stack](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0895-maximum-frequency-stack) |
+| [0901-online-stock-span](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0901-online-stock-span) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 | [2470-removing-stars-from-a-string](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/2470-removing-stars-from-a-string) |
 ## Recursion
@@ -702,6 +705,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0042-trapping-rain-water) |
 | [0739-daily-temperatures](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0739-daily-temperatures) |
 | [0883-car-fleet](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0883-car-fleet) |
+| [0901-online-stock-span](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0901-online-stock-span) |
 ## Greedy
 |  |
 | ------- |
