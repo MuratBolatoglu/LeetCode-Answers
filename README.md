@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0747-min-cost-climbing-stairs](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0747-min-cost-climbing-stairs) |
 | [0792-binary-search](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0792-binary-search) |
 | [0860-lemonade-change](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0860-lemonade-change) |
+| [0867-transpose-matrix](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0867-transpose-matrix) |
 | [0876-hand-of-straights](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0876-hand-of-straights) |
 | [0881-boats-to-save-people](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0881-boats-to-save-people) |
 | [0883-car-fleet](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0883-car-fleet) |
@@ -505,6 +506,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0304-range-sum-query-2d-immutable](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0304-range-sum-query-2d-immutable) |
 | [0417-pacific-atlantic-water-flow](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0417-pacific-atlantic-water-flow) |
 | [0695-max-area-of-island](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0695-max-area-of-island) |
+| [0867-transpose-matrix](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0867-transpose-matrix) |
 | [0945-snakes-and-ladders](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0945-snakes-and-ladders) |
 | [1036-rotting-oranges](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/1036-rotting-oranges) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/2038-nearest-exit-from-entrance-in-maze) |
@@ -770,6 +772,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0657-robot-return-to-origin](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0657-robot-return-to-origin) |
 | [0682-baseball-game](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0735-asteroid-collision) |
+| [0867-transpose-matrix](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0867-transpose-matrix) |
 | [1094-car-pooling](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/1094-car-pooling) |
 | [1929-concatenation-of-array](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/1929-concatenation-of-array) |
 | [2428-equal-row-and-column-pairs](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/2428-equal-row-and-column-pairs) |
