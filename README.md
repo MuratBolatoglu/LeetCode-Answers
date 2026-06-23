@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0621-task-scheduler) |
 | [0622-design-circular-queue](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0622-design-circular-queue) |
 | [0643-maximum-average-subarray-i](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0643-maximum-average-subarray-i) |
+| [0658-find-k-closest-elements](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0658-find-k-closest-elements) |
 | [0682-baseball-game](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0682-baseball-game) |
 | [0695-max-area-of-island](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0695-max-area-of-island) |
 | [0705-design-hashset](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0705-design-hashset) |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0502-ipo](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0502-ipo) |
 | [0621-task-scheduler](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0621-task-scheduler) |
+| [0658-find-k-closest-elements](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0658-find-k-closest-elements) |
 | [0744-network-delay-time](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0744-network-delay-time) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1014-k-closest-points-to-origin](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/1014-k-closest-points-to-origin) |
@@ -238,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0374-guess-number-higher-or-lower](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0374-guess-number-higher-or-lower) |
 | [0450-delete-node-in-a-bst](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0450-delete-node-in-a-bst) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0530-minimum-absolute-difference-in-bst) |
+| [0658-find-k-closest-elements](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0658-find-k-closest-elements) |
 | [0783-search-in-a-binary-search-tree](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0783-search-in-a-binary-search-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0792-binary-search](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0792-binary-search) |
@@ -363,6 +366,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0443-string-compression](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0443-string-compression) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0567-permutation-in-string](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0567-permutation-in-string) |
+| [0658-find-k-closest-elements](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0658-find-k-closest-elements) |
 | [0680-valid-palindrome-ii](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0680-valid-palindrome-ii) |
 | [0768-partition-labels](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0768-partition-labels) |
 | [0881-boats-to-save-people](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0881-boats-to-save-people) |
@@ -444,6 +448,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0239-sliding-window-maximum) |
 | [0567-permutation-in-string](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0643-maximum-average-subarray-i) |
+| [0658-find-k-closest-elements](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0658-find-k-closest-elements) |
 | [1046-max-consecutive-ones-iii](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/1046-max-consecutive-ones-iii) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
@@ -710,6 +715,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0502-ipo](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0502-ipo) |
 | [0621-task-scheduler](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0621-task-scheduler) |
+| [0658-find-k-closest-elements](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0658-find-k-closest-elements) |
 | [0876-hand-of-straights](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0876-hand-of-straights) |
 | [0881-boats-to-save-people](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0881-boats-to-save-people) |
 | [0883-car-fleet](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0883-car-fleet) |
