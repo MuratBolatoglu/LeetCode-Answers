@@ -179,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0783-search-in-a-binary-search-tree](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0783-search-in-a-binary-search-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0904-leaf-similar-trees](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0904-leaf-similar-trees) |
+| [0938-range-sum-of-bst](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0938-range-sum-of-bst) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/1544-count-good-nodes-in-binary-tree) |
@@ -216,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0744-network-delay-time](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0744-network-delay-time) |
 | [0871-keys-and-rooms](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0871-keys-and-rooms) |
 | [0904-leaf-similar-trees](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0904-leaf-similar-trees) |
+| [0938-range-sum-of-bst](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0938-range-sum-of-bst) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/1544-count-good-nodes-in-binary-tree) |
@@ -248,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0789-kth-largest-element-in-a-stream](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0792-binary-search](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0907-koko-eating-bananas) |
+| [0938-range-sum-of-bst](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0938-range-sum-of-bst) |
 | [1046-max-consecutive-ones-iii](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/1046-max-consecutive-ones-iii) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2540-minimum-common-value](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/2540-minimum-common-value) |
@@ -282,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0783-search-in-a-binary-search-tree](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0783-search-in-a-binary-search-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0904-leaf-similar-trees](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0904-leaf-similar-trees) |
+| [0938-range-sum-of-bst](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0938-range-sum-of-bst) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/1544-count-good-nodes-in-binary-tree) |
