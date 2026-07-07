@@ -501,6 +501,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1146-greatest-common-divisor-of-strings](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1236-n-th-tribonacci-number](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/1236-n-th-tribonacci-number) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/1421-find-numbers-with-even-number-of-digits) |
+| [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Matrix
 |  |
