@@ -152,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0102-binary-tree-level-order-traversal) |
@@ -187,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0104-maximum-depth-of-binary-tree) |
@@ -260,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0102-binary-tree-level-order-traversal) |
@@ -636,6 +639,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0042-trapping-rain-water) |
 | [0071-simplify-path](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0071-simplify-path) |
+| [0094-binary-tree-inorder-traversal](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0094-binary-tree-inorder-traversal) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0143-reorder-list](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0143-reorder-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/MuratBolatoglu/LeetCode-Answers/tree/master/0144-binary-tree-preorder-traversal) |
